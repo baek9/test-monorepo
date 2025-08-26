@@ -16,6 +16,7 @@ export default defineConfig([
       '**/dist',
       'pnpm-lock.yaml',
       'pnpm-workspace.yaml',
+      'packages/common',
     ],
   },
   {
